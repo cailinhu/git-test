@@ -17,5 +17,6 @@ public class GitTestJava {
         System.out.println("上传到GitHub;测试push");
         System.out.println("更新;测试pull");
       
+        System.out.println("我要上传到hot-fix分支");
     }
 }
