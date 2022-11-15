@@ -13,5 +13,6 @@ public class GitTestJava {
         System.out.println("hello hot-fix!");
         System.out.println("hello hot-fix22!");
         System.out.println("hello 冲突!");
+        System.out.println("我要上传到hot-fix分支");
     }
 }
