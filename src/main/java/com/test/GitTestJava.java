@@ -15,5 +15,7 @@ public class GitTestJava {
         System.out.println("master 冲突");
         System.out.println("hello 冲突!");
         System.out.println("上传到GitHub;测试push");
+        System.out.println("更新;测试pull");
+      
     }
 }
