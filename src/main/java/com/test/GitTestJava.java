@@ -14,5 +14,6 @@ public class GitTestJava {
         System.out.println("hello hot-fix22!");
         System.out.println("master 冲突");
         System.out.println("hello 冲突!");
+        System.out.println("上传到GitHub;测试push");
     }
 }
